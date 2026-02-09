@@ -73,8 +73,20 @@
           "default": "&utm_source=facebook&utm_campaign={{campaign.name}}|{{campaign.id}}&utm_medium=cpc&utm_content={{ad.name}}|{{ad.id}}&utm_term={{adset.name}}|{{adset.id}}&nemu_source=facebook&nemu_campaign={{campaign.name}}|{{campaign.id}}&nemu_adset={{adset.name}}|{{adset.id}}&nemu_content={{ad.name}}|{{ad.id}}"
         }
       },
+      "trafego - tiktok ads": {
+        "id": 8126,
+        "params": {
+          "default": ""
+        }
+      },
       "trafego - google ads": {
         "id": 7078,
+        "params": {
+          "default": ""
+        }
+      },
+      "trafego - bing ads": {
+        "id": 8128,
         "params": {
           "default": ""
         }
