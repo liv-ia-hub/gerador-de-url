@@ -91,10 +91,10 @@
           "default": ""
         }
       },
-      "whatsapp": {
+      "disparo whatsapp ": {
         "id": 7584,
         "params": {
-          "default": "&nemu_source=whatsapp-rigolim&nemu_adset=organico"
+          "default": "&nemu_source=whatsapp-rigolim&nemu_adset=disparo-whatsapp"
         }
       }
     },
@@ -588,10 +588,10 @@
           "default": "&nemu_source=email-mkt-edrone&nemu_adset=organico"
         }
       },
-      "whatsapp": {
+      "disparo whatsapp": {
         "id": 7586,
         "params": {
-          "default": "&nemu_source=whatsapp-black-rigolim&nemu_adset=organico"
+          "default": "&nemu_source=whatsapp-black-rigolim&nemu_adset=disparo-whatsapp"
         }
       }
     },
@@ -841,10 +841,10 @@
           "default": "&nemu_source=cyber-monday-grupo-vip_rigolovers_rhc&nemu_adset=organico"
         }
       },
-      "WhatsApp": {
+      "disparo whatsApp": {
         "id": 7906,
         "params": {
-          "default": "&nemu_source=cyber-monday-whatsapp-rigolim&nemu_adset=organico"
+          "default": "&nemu_source=cyber-monday-whatsapp-rigolim&nemu_adset=disparo-whatsapp"
         }
       }
     },
@@ -1003,10 +1003,10 @@
           "default": "&nemu_source=natal-grupo-vip_rigolovers_rhc&nemu_adset=organico"
         }
       },
-      "WhatsApp": {
+      "Disparo WhatsApp": {
         "id": 7958,
         "params": {
-          "default": "&nemu_source=natal-whatsapp-rigolim&nemu_adset=organico"
+          "default": "&nemu_source=natal-whatsapp-rigolim&nemu_adset=disparo-whatsapp"
         }
       },
       "Embaixadores": {
@@ -1171,10 +1171,10 @@
           "default": "&nemu_source=compre-e-ganhe-grupo-vip_rigolovers_rhc&nemu_adset=organico"
         }
       },
-      "WhatsApp": {
+      "Disparo WhatsApp": {
         "id": 8018,
         "params": {
-          "default": "&nemu_source=compre-e-ganhe-whatsapp-rigolim&nemu_adset=organico"
+          "default": "&nemu_source=compre-e-ganhe-whatsapp-rigolim&nemu_adset=disparo-whatsapp"
         }
       },
       "Embaixadores": {
