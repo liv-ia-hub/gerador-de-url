@@ -721,6 +721,174 @@
       }
     }
   },
+  "Black Friday 2026": {
+    "rigolim": {
+      "instagram - link bio": {
+        "id": 10548,
+        "params": {
+          "default": "&nemu_source=link_instagram_link_bio_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - stories": {
+        "id": 10552,
+        "params": {
+          "default": "&nemu_source=link_instagram_stories_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - direct": {
+        "id": 10554,
+        "params": {
+          "default": "&nemu_source=link_instagram_direct_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - canal": {
+        "id": 10556,
+        "params": {
+          "default": "&nemu_source=link_instagram_canal_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - live": {
+        "id": 10550,
+        "params": {
+          "default": "&nemu_source=link_instagram_live_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram ": {
+        "id": 10560,
+        "params": {
+          "default": "&nemu_source=link_instagram_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "facebook": {
+        "id": 10562,
+        "params": {
+          "default": "&nemu_source=facebook_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "tiktok": {
+        "id": 10564,
+        "params": {
+          "default": "&nemu_source=tiktok_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "pinterest": {
+        "id": 10566,
+        "params": {
+          "default": "&nemu_source=pinterest_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "youtube": {
+        "id": 10568,
+        "params": {
+          "default": "&nemu_source=youtube_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "grupo vip": {
+        "id": 10586,
+        "params": {
+          "default": "&nemu_source=grupo-vip_rigolover_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "embaixadores": {
+        "id": 10588,
+        "params": {
+          "default": "&nemu_source=embaixadores_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "experts": {
+        "id": 10590,
+        "params": {
+          "default": "&nemu_source=experts_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "aplicativo": {
+        "id": 10576,
+        "params": {
+          "default": "&nemu_source=aplicativo_rhc_black_friday&nemu_adset=organico"
+        }
+      },
+      "trafego - meta ads": {
+        "id": 10578,
+        "params": {
+          "default": "&utm_source=facebook&utm_campaign={{campaign.name}}|{{campaign.id}}&utm_medium=cpc&utm_content={{ad.name}}|{{ad.id}}&utm_term={{adset.name}}|{{adset.id}}&nemu_source=facebook&nemu_campaign={{campaign.name}}|{{campaign.id}}&nemu_adset={{adset.name}}|{{adset.id}}&nemu_content={{ad.name}}|{{ad.id}}"
+        }
+      },
+      "trafego - google ads": {
+        "id": 10580,
+        "params": {
+          "default": ""
+        }
+      },
+      "e-mail marketing - zoppy": {
+        "id": 10584,
+        "params": {
+          "default": "&nemu_source=email-mkt-zoppy&nemu_adset=organico"
+        }
+      },
+      "disparo whatsapp": {
+        "id": 10582,
+        "params": {
+          "default": "&nemu_source=whatsapp-black-rigolim&nemu_adset=disparo-whatsapp"
+        }
+      }
+    },
+    "leticia": {
+      "instagram - link bio": {
+        "id": 10532,
+        "params": {
+          "default": "&nemu_source=link_instagram_link_bio_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - stories": {
+        "id": 10534,
+        "params": {
+          "default": "&nemu_source=link_instagram_stories_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - direct": {
+        "id": 10536,
+        "params": {
+          "default": "&nemu_source=link_instagram_direct_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - canal": {
+        "id": 10538,
+        "params": {
+          "default": "&nemu_source=link_instagram_canal_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram - live": {
+        "id": 10530,
+        "params": {
+          "default": "&nemu_source=link_instagram_canal_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "instagram": {
+        "id": 10558,
+        "params": {
+          "default": "&nemu_source=link_instagram_leticia_black_friday&nemu_adset=organico"
+        }
+      },
+      "facebook": {
+        "id": 10540,
+        "params": {
+          "default": "&nemu_source=facebook_lr_black_friday&nemu_adset=organico"
+        }
+      },
+      "tiktok": {
+        "id": 10542,
+        "params": {
+          "default": "&nemu_source=tiktok_lr_black_friday&nemu_adset=organico"
+        }
+      },
+      "grupo-vip - mrp": {
+        "id": 10544,
+        "params": {
+          "default": "&nemu_source=grupo_vip_mrp_leticia_lr_black_friday&nemu_adset=organico"
+        }
+      }
+    }
+  },
   "Black Friday Embaixadores": {
     "rigolim": {
       "claudineia-panosso-caris": {
