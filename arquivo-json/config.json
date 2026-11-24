@@ -830,6 +830,12 @@
         "params": {
           "default": "&nemu_source=whatsapp-black-rigolim&nemu_adset=disparo-whatsapp"
         }
+      },
+      "disparo whatsapp - emilIA": {
+        "id": 10676,
+        "params": {
+          "default": "&nemu_source=whatsapp-emilia-black-rigolim&nemu_adset=disparo-whatsapp-emilia"
+        }
       }
     },
     "leticia": {
